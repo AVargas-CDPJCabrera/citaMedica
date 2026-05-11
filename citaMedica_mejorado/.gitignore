@@ -1,0 +1,17 @@
+# Compilados
+bin/
+*.class
+
+# Credenciales — NUNCA subir a GitHub
+src/db.properties
+
+# IDEs
+.classpath
+.project
+.settings/
+*.iml
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
